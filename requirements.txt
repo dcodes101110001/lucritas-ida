@@ -2,3 +2,5 @@ Pillow
 numpy
 matplotlib
 streamlit
+cryptography
+pqcrypto
